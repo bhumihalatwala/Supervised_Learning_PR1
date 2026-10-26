@@ -236,3 +236,5 @@ House-Price-Prediction/
 This project demonstrates the complete workflow of supervised machine learning for house price prediction.
 
 After comparing multiple regression techniques and optimization methods, **Multiple Linear Regression emerged as the most effective model**, achieving an R² Score of **0.9178** and providing the most reliable predictions for real-world housing valuation scenarios.
+
+Explanation Video Link : https://drive.google.com/file/d/1SHYZ9ZiNue98pk7_rMknC41ZoWX5DIVj/view?usp=drive_link
